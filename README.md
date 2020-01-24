@@ -1,1 +1,1 @@
-# Continuous_Density_Hidden_Markov_Model
+# EEEM030 Coursework
